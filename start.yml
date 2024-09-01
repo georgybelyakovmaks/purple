@@ -1,0 +1,42 @@
+user1:
+  role: admin
+  name: Vasya
+  age: 30
+  position: IT
+  skills: ["Dev", "Security", "C"]
+  location: location1
+  pets: ["pet1"", "pet2"]
+
+skills: 
+- name: Dev
+  level: 3
+  multiline: |
+  Сомнительно, 
+  но окей
+- name: Security
+  level: 5 
+  multiline: |
+  Сомнительно, 
+  но окей
+- name: C
+  level: 1
+  multiline: |
+  Сомнительно, 
+  но окей
+
+location1:
+  Country: Rus
+  City: Mow
+  Street: Dimitrova
+  Building: 6
+  App: 70
+
+pet1:
+- name: Cat
+  breed: British
+  Canhemew: true
+
+pet2:
+- name: Dog
+  breed: Buld
+  Canhemew: false
